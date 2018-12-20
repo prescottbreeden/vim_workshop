@@ -1,0 +1,54 @@
+--------------------
+     NAVIGATION
+--------------------
+- h, k, j, l
+- $
+- 0, ^
+- gg, G
+- z + {return}
+
+
+--------------------
+       MODES
+--------------------
+
+COMMAND : INSERT : VISUAL
+
+INSERT:
+
+- i, I
+- a, A
+- o, O
+- c, C
+- s, S
+
+COMMAND:
+
+- x
+- y, Y
+- p, P
+- d, D, dd
+- u, ctrl-R, .
+- f, F
+- diw, cit, ci"
+- daw, cat, ca"
+
+VISUAL:
+
+- v, V, ctrl-v
+
+
+--------------------
+       OTHER
+--------------------
+
+- :set number!
+- :{number}
+- :set hlsearch!
+- /, ?, n, N
+- :Ex
+- :!
+- ctrl-p
+- c2w, d3w, 5dd
+
+
